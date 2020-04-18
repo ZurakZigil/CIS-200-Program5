@@ -9,7 +9,7 @@
 // 1. preorder traversal
 // 2. inorder traversal
 // 3. postorder traversal
-// CTested in Test.cs 
+// Tested in Test.cs 
 
 //(BASE code)
 // Fig. 19.23: BinaryTreeLibrary2.cs
